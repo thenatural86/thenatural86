@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Philip Smalls 👋
 
-<!--
-**thenatural86/thenatural86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative and results-driven Software Engineer with experience in crafting clean, efficient code and solving complex technical problems. I have a passion for building scalable applications using modern technologies, and I'm always looking to collaborate on impactful projects. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python, Ruby
+- **Frameworks**: React, Redux, Django, Ruby on Rails
+- **Runtime Environment**: Node.js
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps & Cloud**: AWS, Docker, GitHub Actions
+- **Testing**: Jest, PyTest, RSpec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenatural86&show_icons=true&theme=radical)
+
+### 🔥 Projects
+
+- **[Recipe API](https://github.com/thenatural86/recipe-app-api)**  
+  REST API built with Python, Django, Docker, and AWS, utilizing TDD.
+  
+- **[Job Tracker](https://github.com/thenatural86/job-tracker)**  
+  Full-stack job tracker app using React, Node.js, and MongoDB.
+  
+- **[Cozy Corner](https://github.com/thenatural86/cozy-app)**  
+  E-commerce app built with React and Node.js with Stripe payment integration.
+
+### 🤝 Let’s Connect
+Feel free to reach out for collaboration or just to say hi!  
+- [LinkedIn](https://www.linkedin.com/in/philip-smalls/)  
+- [Portfolio](https://portfolio-3-1.onrender.com/)  
+- [Medium](https://medium.com/@philip.smalls86)
