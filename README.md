@@ -4,7 +4,7 @@ I'm a creative and results-driven Software Engineer with experience in crafting 
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, Ruby
-- **Frameworks**: React, Redux, Django, Ruby on Rails
+- **Frameworks**: React, Redux, Next.js Django, Ruby on Rails
 - **Runtime Environment**: Node.js
 - **Databases**: PostgreSQL, MongoDB
 - **DevOps & Cloud**: AWS, Docker, GitHub Actions
@@ -13,6 +13,9 @@ I'm a creative and results-driven Software Engineer with experience in crafting 
 ![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenatural86&show_icons=true&theme=radical)
 
 ### 🔥 Projects
+
+- **[LightningGPT](https://github.com/thenatural86/lightning-gpt)**  
+  AI-driven web application using Next.js and the OpenAI API.
 
 - **[Recipe API](https://github.com/thenatural86/recipe-app-api)**  
   REST API built with Python, Django, Docker, and AWS, utilizing TDD.
